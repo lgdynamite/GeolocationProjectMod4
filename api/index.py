@@ -1,5 +1,5 @@
 import urllib.parse
-from http.server import requests
+import requests
 from http.server import BaseHTTPRequestHandler
 
 main_api = "http://ip-api.com/json/"
