@@ -1,4 +1,4 @@
-from http.server import urllib.parse
+import urllib.parse
 from http.server import requests
 from http.server import BaseHTTPRequestHandler
 
